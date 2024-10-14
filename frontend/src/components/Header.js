@@ -1,3 +1,4 @@
+/*
 import React from 'react';
    import { AppBar, Toolbar, Typography } from '@material-ui/core';
    import { useTranslation } from 'react-i18next';
@@ -17,3 +18,4 @@ import React from 'react';
    };
 
    export default Header;
+   */

@@ -143,6 +143,8 @@ i18n
           appName: 'DPI స్వీకరణ',
           login: "లాగిన్ చేయండి",
           AskAboutDPIServices: "DPI సేవల గురించి అడగండి",
+          chatbotPlaceholder:"ఉదా. DPI అంటే ఏమిటి?",
+          sendMessage:"సందేశం పంపండి",
           // New login translations
           email: "ఇమెయిల్ చిరునామా",
           password: "పాస్‌వర్డ్",
